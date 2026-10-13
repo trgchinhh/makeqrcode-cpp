@@ -2,6 +2,8 @@
 
 Đây là chương trình nhỏ bằng C++ dùng thư viện [qrcodegen](https://github.com/nayuki/QR-Code-generator) của tác giả [Nayuki](https://github.com/nayuki) build qrcode từ nội dung nhập vào ra terminal hoặc ghi vào file text 
 
+![ảnh demo](img/demo.png)
+
 ## Cách cài đặt 
 ```bash
 git clone https://github.com/trgchinhh/qrcodecli-cpp.git
