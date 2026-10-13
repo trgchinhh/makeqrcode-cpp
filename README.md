@@ -1,4 +1,4 @@
-# QRcode CLI C++
+# Make QRcode CLI C++
 
 Đây là chương trình nhỏ bằng C++ dùng thư viện [qrcodegen](https://github.com/nayuki/QR-Code-generator) của tác giả [Nayuki](https://github.com/nayuki) build qrcode từ nội dung nhập vào ra terminal hoặc ghi vào file text 
 
